@@ -14,7 +14,7 @@ daftar port, fingerprint layanan, banner, brute-force SSH/FTP, enumerasi SMB, di
 
 1. **Clone & masuk ke direktori**
    ```bash
-   git clone https://github.com/<user>/scanip.sh.git
+   git clone https://github.com/rzkyp/scanip.sh.git
    cd scanip.sh
    ```
 
