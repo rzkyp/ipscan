@@ -134,7 +134,7 @@ scan-192.168.1.77-2025-11-15-1342/
 ## 🎭 Credit & Warning (langsung di README)
 
 **Credit:**  
-Script oleh **0xZer0r – @Insider** | Kontribusi: KMIPN CTF Team & open-source community.  
+Script oleh **Zero – @Insider** | Kontribusi: KMIPN CTF Team & open-source community.  
 Terima-kasih kepada RustScan, Nmap, Hydra, Gobuster, WhatWeb, Nikto, enum4linux-ng, smbmap, Metasploit & distro Kali/Parrot.
 
 **⚠️ Warning / Disclaimer:**  
