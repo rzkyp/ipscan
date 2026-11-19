@@ -1,3 +1,20 @@
+<p align="center">
+  <img src="assets/logo.png" alt="scanip.sh" width="240"/>
+</p>
+
+<h1 align="center">scanip.sh</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Shell-4EAA25" alt=""/>
+  <img src="https://img.shields.io/badge/pentest-critical-f85149" alt=""/>
+  <img src="https://img.shields.io/badge/RustScan-000000" alt=""/>
+  <img src="https://img.shields.io/badge/automation-blue" alt=""/>
+</p>
+
+<p align="center">Shell-script pendamping pentester: RustScan + exploit otomatis + laporan rapi.</p>
+
+---
+
 📌 **Apa itu scanip.sh v6.3?**  
 `scanip.sh` adalah **shell-script pendamping penetration-tester** yang mengotomasikan rangkaian tugas membosankan:  
 - menentukan proxy (Tor/custom/none)  
@@ -158,3 +175,7 @@ run
 ```
 **Selesai!**  
 Star ⭐ repo kalau bermanfaat – **stay legal, stay ethical, happy hacking!**
+
+---
+
+<p align="center"><sub>Made with a little help from <b>Hermes</b> · dev colab with hermes</sub></p>
