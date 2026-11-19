@@ -175,7 +175,3 @@ run
 ```
 **Selesai!**  
 Star ⭐ repo kalau bermanfaat – **stay legal, stay ethical, happy hacking!**
-
----
-
-<p align="center"><sub>Made with a little help from <b>Hermes</b> · dev colab with hermes</sub></p>
