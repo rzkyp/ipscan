@@ -1,17 +1,20 @@
 <p align="center">
-  <img src="assets/logo.png" alt="scanip.sh" width="240"/>
+  <img src="assets/banner.png" alt="scanip.sh" style="width:100%;max-height:260px;object-fit:cover"/>
+</p>
+
+<p align="center">
+  <img src="assets/logo.png" alt="scanip.sh logo" width="110"/>
 </p>
 
 <h1 align="center">scanip.sh</h1>
 
+<p align="center">Proxy + RustScan + brute-force + enumerasi + laporan</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Shell-4EAA25" alt=""/>
   <img src="https://img.shields.io/badge/pentest-critical-f85149" alt=""/>
-  <img src="https://img.shields.io/badge/RustScan-000000" alt=""/>
-  <img src="https://img.shields.io/badge/automation-blue" alt=""/>
+  <img src="https://img.shields.io/badge/MIT-2ea043" alt=""/>
 </p>
-
-<p align="center">Shell-script pendamping pentester: RustScan + exploit otomatis + laporan rapi.</p>
 
 ---
 
@@ -151,7 +154,7 @@ scan-192.168.1.77-2025-11-15-1342/
 ## 🎭 Credit & Warning (langsung di README)
 
 **Credit:**  
-Script oleh **Zero – @Insider** | Kontribusi: KMIPN CTF Team & open-source community.  
+Script oleh **Zexo – @Insider** | Kontribusi: KMIPN CTF Team & open-source community.  
 Terima-kasih kepada RustScan, Nmap, Hydra, Gobuster, WhatWeb, Nikto, enum4linux-ng, smbmap, Metasploit & distro Kali/Parrot.
 
 **⚠️ Warning / Disclaimer:**  
