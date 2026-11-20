@@ -12,6 +12,9 @@
 <p align="center">pentest automation companion</p>
 
 <p align="center">
+  <img src="docs/logo.png" alt="ZEXO — ZeroDev" width="110">
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Shell-4EAA25" alt=""/>
   <img src="https://img.shields.io/badge/pentest-critical-f85149" alt=""/>
   <img src="https://img.shields.io/badge/MIT-2ea043" alt=""/>
